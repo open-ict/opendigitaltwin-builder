@@ -1,0 +1,9 @@
+APP_NAME=OpenDigital Twin Builder
+ENV=dev
+SECRET_KEY=replace-with-a-long-random-secret
+ACCESS_TOKEN_EXPIRE_MINUTES=1440
+DATABASE_URL=postgresql://postgres:postgres@db:5432/digitaltwin
+MQTT_BROKER=mosquitto
+MQTT_PORT=1883
+MQTT_TOPIC=opendt/telemetry
+CORS_ORIGINS=http://localhost:5173,http://localhost:8000

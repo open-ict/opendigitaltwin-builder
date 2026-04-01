@@ -1,0 +1,3 @@
+print("Seed complete")
+print("Demo tenant: OpenICT Demo")
+print("Login: admin@openict.local / admin123")
