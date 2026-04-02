@@ -20,20 +20,6 @@ The result is a reusable digital commons aligned with NGI’s vision for an open
 ## Experience
 We are part of OpenICT, a social cooperative enterprise focused on open-source technologies, cybersecurity and digital innovation. Our work includes open-source tooling, IoT systems, automation and practical pilot deployments. We also have hands-on beekeeping experience, which supports the demonstrator domain.
 
-## Requested amount
-48000
-
-## Budget explanation
-- Architecture design and specifications: €8,000
-- Backend development: €12,000
-- Frontend dashboard: €10,000
-- Demonstrator integration: €8,000
-- DevOps and deployment: €5,000
-- Documentation, testing and release: €5,000
-
-## Other funding
-The project is currently self-initiated and does not have external funding.
-
 ## Comparison with existing solutions
 Existing digital twin platforms are often proprietary, cloud-dependent and inaccessible to smaller organisations. OpenDigital Twin Builder differs by being fully open-source, self-hostable, standards-oriented and designed as reusable infrastructure rather than a closed vertical product.
 
@@ -43,8 +29,6 @@ Key challenges include designing a generic but simple twin model, handling real-
 ## Ecosystem
 The project targets SMEs, cooperatives, makers, fab labs, beekeepers, environmental monitoring initiatives and open-source developers. Results will be shared through public repositories, documentation and demonstrations.
 
-## Generative AI
-Yes (used for drafting assistance, reviewed and validated manually)
 
 ## Technical attachment text
 OpenDigital Twin Builder is proposed as reusable open infrastructure for modelling connected physical assets in a self-hosted and interoperable way.
