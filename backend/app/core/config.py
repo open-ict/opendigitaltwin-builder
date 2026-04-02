@@ -6,7 +6,7 @@ class Settings(BaseSettings):
     ENV: str = "dev"
     SECRET_KEY: str
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 1440
-    DATABASE_URL: str
+    DATABASE_URL: str = "postgresql://postgres:postgres@db:5432/digitaltwin"
     MQTT_BROKER: str = "mosquitto"
     MQTT_PORT: int = 1883
     MQTT_TOPIC: str = "opendt/telemetry"

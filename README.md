@@ -1,10 +1,12 @@
-OpenDigital Twin Builder — Budget Ready
+# OpenDigital Twin Builder — v9 Master Bundle
 
-Total requested amount: €48,000
+This package contains a single master copy-paste submission file plus a GitHub-ready MVP scaffold.
 
-1. Architecture and specifications — €8,000
-2. Backend development — €12,000
-3. Frontend dashboard — €10,000
-4. Beehive demonstrator — €8,000
-5. DevOps and deployment — €5,000
-6. Documentation and release — €5,000
+## Included
+- one master submission file
+- final form answers
+- technical attachment
+- FastAPI starter backend
+- React starter dashboard
+- MQTT demo flow
+- submission checklist

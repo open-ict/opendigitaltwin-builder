@@ -1,0 +1,11 @@
+Proposal name:
+OpenDigital Twin Builder
+
+Website / wiki:
+https://github.com/openict/opendigitaltwin-builder
+
+Requested Amount:
+48000
+
+Generative AI:
+Yes (used for drafting assistance, reviewed and validated manually)
