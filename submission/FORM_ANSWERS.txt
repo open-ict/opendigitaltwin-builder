@@ -3,6 +3,3 @@ OpenDigital Twin Builder
 
 Website / wiki:
 https://github.com/openict/opendigitaltwin-builder
-
-Generative AI:
-Yes (used for drafting assistance, reviewed and validated manually)
